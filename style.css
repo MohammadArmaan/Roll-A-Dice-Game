@@ -195,7 +195,7 @@ main {
   }
 
   body{
-    margin: 12rem 2rem 2rem 2rem;
+    margin: 20rem 2rem 6rem 2rem;
   }
 
   .heading{
@@ -205,8 +205,8 @@ main {
     font-size: 24px;
     color: #fff;
     font-weight: 700;
-    margin-top: 6rem;
-    margin-bottom: 3rem;
+    margin-top: 15rem;
+
   
   }
 
@@ -261,9 +261,9 @@ main {
   .buttons{
     width: 100%;
     height: auto;
-    background-image: linear-gradient(to top left, #753682 0%, #bf2e34 100%);
-    border-bottom: 2px solid #ddd;
-    border-top: 2px solid #ddd;
+    background-image: linear-gradient(to top left, #2f1634 0%, #bf2e34 100%) blur(10px);
+    border-bottom: 4px solid #ddd;
+    border-top: 4px solid #ddd;
 
   }
 
