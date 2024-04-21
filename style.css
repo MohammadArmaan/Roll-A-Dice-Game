@@ -195,7 +195,7 @@ main {
   }
 
   body{
-    margin: 10rem 2rem 2rem 2rem;
+    margin: 12rem 2rem 2rem 2rem;
   }
 
   .heading{
@@ -206,6 +206,7 @@ main {
     color: #fff;
     font-weight: 700;
     margin-top: 6rem;
+    margin-bottom: 3rem;
   
   }
 
